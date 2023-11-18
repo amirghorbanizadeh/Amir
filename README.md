@@ -1,2 +1,2 @@
 #
-![octicons cover light]([https://raw.githubusercontent.com/snoou/Convert-photo-to-text/main/input.png](https://raw.githubusercontent.com/amirghorbanizadeh/Amir/main/Screenshot%202023-11-17%20155004.png?token=GHSAT0AAAAAACKMPXKKU2UHDP4BSA647FCEZKYUSGA)https://raw.githubusercontent.com/amirghorbanizadeh/Amir/main/Screenshot%202023-11-17%20155004.png?token=GHSAT0AAAAAACKMPXKKU2UHDP4BSA647FCEZKYUSGA)
+![octicons cover light](https://raw.githubusercontent.com/amirghorbanizadeh/Amir/main/Screenshot%202023-11-17%20155004.png?token=GHSAT0AAAAAACKMPXKKWCVIYL65LKRRQRG2ZKYUTNQ)
